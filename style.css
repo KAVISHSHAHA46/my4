@@ -1,0 +1,100 @@
+li {
+    background-color: aqua;
+    width: 180px;
+    font-size: 30px;
+    text-align: center;
+}
+
+li:hover {
+cursor: pointer;
+    font-size: 35px;
+     background-color:blue;
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-family: fantasy;
+}
+ul {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+li {
+  float: left;
+}
+#welcome{
+    width: 1250px;
+    height: 700px;
+    text-align: center;
+    background-color: blueviolet;
+}
+#about{
+    width: 1250px;
+    height: 800px;
+    text-align: center;
+    background-color: firebrick;
+}
+ul {
+  list-style-type: none;
+  overflow: hidden;
+}
+#ss{
+    height: 300px;
+    width: 350px;
+    border-radius: 100px;
+    border-width: 30px;
+    border-color: red;
+}
+h3{
+    font-family:monospace;
+}
+h1{
+    font-family: monospace;
+    font-weight: bold;
+}
+p{
+    font-family:monospace;
+    font-size: 20px;
+}
+#hi{
+    font-family: fantasy;
+    font-size: 30px;
+}
+#videos{
+    width: 1250px;
+    height: 1700px;
+    text-align: center;
+    background-color:aquamarine;
+}
+#myapps{
+    width: 1250px;
+    height: 800px;
+    text-align: center;
+    background-color:cornsilk;
+}
+#games{
+    width: 1250px;
+    height: 800px;
+    text-align: center;
+    background-color:fuchsia;
+}
+img:hover{
+    cursor: pointer;
+}
+#chatbot{
+    width: 1250px;
+    height: 800px;
+    text-align: center;
+    background-color:forestgreen;
+}
+#inspirations{
+    width: 1250px;
+    height: 800px;
+    text-align: center;
+    background-color:aliceblue;
+}
+img{
+    height: 700px;;
+    width: 500px;
+}
